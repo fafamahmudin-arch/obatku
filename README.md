@@ -20,24 +20,24 @@ Fitur-fitur utama:
 - Riwayat pesanan dan status pengiriman
 - Notifikasi menggunakan FCM
 
-  a. Halaman Login
-Menampilkan form email dan password
+a. Halaman Login:
+Menampilkan form email dan password,
 Terdapat tombol "Login" dan "Daftar"
 
-b. Halaman Home / Daftar Obat
-Menampilkan daftar obat yang diambil dari Firestore
+b. Halaman Home / Daftar Obat:
+Menampilkan daftar obat yang diambil dari Firestore,
 Menggunakan RecyclerView dengan desain kartu
 
-c. Halaman Detail Obat
-Menampilkan nama, harga, deskripsi, dan gambar obat
+c. Halaman Detail Obat:
+Menampilkan nama, harga, deskripsi, dan gambar obat,
 Tombol "Tambah ke Keranjang"
 
-d. Halaman Keranjang
-Menampilkan daftar obat yang ditambahkan pengguna
+d. Halaman Keranjang:
+Menampilkan daftar obat yang ditambahkan pengguna,
 Tombol "Checkout"
 
-e. Halaman Checkout / Pembayaran
-Menampilkan ringkasan pesanan
+e. Halaman Checkout / Pembayaran:
+Menampilkan ringkasan pesanan,
 Konfirmasi pembayaran dan status
 
 f. Halaman Riwayat Pesanan
